@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -18,3 +20,6 @@ public:
     return {};
     }
 };
+
+
+//solved 10.19.25
