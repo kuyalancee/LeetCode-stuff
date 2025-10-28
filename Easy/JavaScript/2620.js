@@ -1,7 +1,11 @@
+//https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript
 /**
  * @param {number} n
  * @return {Function} counter
  */
+
+//counter
+
 var createCounter = function(n) {
     
     return function() {

@@ -1,5 +1,7 @@
 //https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=problem-list-v2&envId=array
 
+//remove dupes from sorted array
+
 #include <vector>
 using namespace std;
 
